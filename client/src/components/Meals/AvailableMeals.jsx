@@ -6,8 +6,8 @@ import MealItem from "./MealItem/MealItem";
 const DUMMY_MEALS = [
   {
     id: "m1",
-    name: "Sushi",
-    description: "Finest fish and veggies",
+    name: "Poutine",
+    description: "Fries covered in gravy and cheese curds!",
     price: 22.99,
   },
   {
